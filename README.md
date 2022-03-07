@@ -13,7 +13,7 @@
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=resendizosvaldo&theme=gruvbox_light&layout=compact"/>
 </div>
 
-# 🔭Actions
+## 🔭Actions
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=resendizosvaldo"/>
@@ -23,7 +23,7 @@
 </div>
 
 
-> Events participation
+## 📺Events participation
 - Developer of Julia APP, winning platform of the health vertical in Talent Land 2018.
 - Winner Hackathon vertical health 2018 in Talent Land.
 - Participation and second place Hackathon BBVA Bancomer in the QR Code Reader category 2018.
