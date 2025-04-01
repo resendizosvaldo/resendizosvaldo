@@ -18,6 +18,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resendizosvaldo&layout=compact&theme=algolia"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=resendizosvaldo&theme=algolia)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=resendizosvaldo&theme=algolia"/>
 </div>
 
@@ -31,7 +32,7 @@
 - 🗣 Alexa Skills Developer
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](tu_enlace_linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osvaldo-resendiz-resendiz-b12486162/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](tu_enlace_twitter)
 
 <!--
