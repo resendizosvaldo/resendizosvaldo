@@ -1,38 +1,38 @@
-## 🚀 About me
-### Hi, I'm Osvaldo Resendiz, a computer systems engineer specializing in IoT.
+# 👋 Hi, I'm Osvaldo Resendiz
+
+**Computer Systems Engineer | IoT Specialist**
 
 ## 🛠 Tech Stack
 
-> Skills
-- 💻 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-> Language usage
+### Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+
+## 📊 Stats
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=resendizosvaldo&theme=gruvbox_light&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resendizosvaldo&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=resendizosvaldo&theme=algolia"/>
 </div>
 
-## 🔭Actions
+## 🏆 Achievements
 
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=resendizosvaldo"/>
-</div>
+- 🥇 **1st Place** - Talent Land Health Vertical 2018 (Julia App)
+- 🥈 **2nd Place** - BBVA Bancomer Hackathon (QR Code Reader)
+- 🥉 **3rd Place** - Startup Weekend Querétaro 2019
+- Top 10 - Hackathon Talent at Home 2020
+- 🎓 Microsoft Azure AZ-900 Certified
+- 🗣 Alexa Skills Developer
 
-
-
-## 📺Events participation
-- Developer of Julia APP, winning platform of the health vertical in Talent Land 2018.
-- Winner Hackathon vertical health 2018 in Talent Land.
-- Participation and second place Hackathon BBVA Bancomer in the QR Code Reader category 2018.
-- Participation in the first edition of the Hackathon HackaTecnm of the TECNM based in Toluca 2018.
-- Participation and third place startup weekend Querétaro 2019.
-- Participation and fourth place Hackthon Talent Land Vertical quality education, development
-of skills for Amazon Alexa 2019.
-- Participation and top 10 Hackathon Talent at Home April 2020 “Reactivating the economy in
-Mexico".
-- Skills developer for Amazon Echo Dot.
-- Microsoft Azure AZ 900 certification.
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](tu_enlace_linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](tu_enlace_twitter)
 
 <!--
 **resendizosvaldo/resendizosvaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
