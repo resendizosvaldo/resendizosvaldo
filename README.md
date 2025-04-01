@@ -18,9 +18,7 @@
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=resendizosvaldo"/>
 </div>
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 
 ## 📺Events participation
