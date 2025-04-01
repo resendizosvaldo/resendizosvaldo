@@ -18,8 +18,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resendizosvaldo&layout=compact&theme=algolia"/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=resendizosvaldo&theme=algolia)](https://git.io/streak-stats)
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=resendizosvaldo&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=resendizosvaldo&theme=algolia"/>
 </div>
 
 ## 🏆 Achievements
